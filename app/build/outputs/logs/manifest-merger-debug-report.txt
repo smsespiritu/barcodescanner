@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [:internal:chooserx] C:\Users\YONDU\AndroidStudioProjects\mlkit\android\internal\chooserx\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\cab23d09446ae08624482fce28d3d73a\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\998b2268fe622b13791958f80f1abfe9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\d7e8b64a9b29427a6927721e6d356298\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\YONDU\.gradle\caches\transforms-3\e15d3a320fcdeecc59b0d5b8a2bbd991\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\569fb20bb9acb0d8b7f16ba0a2a7dd1f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\670fbc8560ad41d6e96172e7a683cc15\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\1a7dbe1eb178a130cd9eaf9223d255c7\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\6813078cd9421796bdfc9302a0c59866\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\710e640780f8cfef6bd1226d237d08bf\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\dccfcee38aec19ef12284738fb9b56b2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\8df261c613baa7c462724901163d725b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\56c42f70658ebbf164e760040f66895c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\90144f28231f5dd9f1cb88e3f994ee68\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\fa40fab636cfd2c83308bc621172beba\transformed\jetified-barcode-scanning-common-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\YONDU\.gradle\caches\transforms-3\35beb8c1fabba03570a80477a03338af\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\0ded01ebf13d0b3a7ec39276ceacf502\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\2f823df7e2471e24279698bb73f77070\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\cf88988b45e5926ebb130bced8012c59\transformed\jetified-activity-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\afdccf618cc46e402b21b9b61c7ec376\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\e529572e768e906efab53815ff78db15\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\7de3085eb6039f1667e5594178c8dfaa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\b39c72d4399dd2955a5f97eef6c610e3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\583bc1af866052aa676d13bd242904d9\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\YONDU\.gradle\caches\transforms-3\aae922b094ae24511a94db802cc0cb68\transformed\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\5c8090023d577b86e8281b82d9683a60\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\70840bc8ca30170ab957f7c105b2008f\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\16f9f4a793589bdc3d449bf2196cab41\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\1bb0f84d87a5a5e8e0cb5535f4c755ce\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\85fc9332fdcd87f70f6c4efc70d847b3\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\c2bbf579950e29c5becb1f8c172c579c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\67731ff767f4a203cd9fcaa6ab4be03a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\be675b2e5a8192f8a8f521e62df93a54\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\387941fcce21135d0485ad8f94099013\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\9afabe014c07c719e9a868005615f8d3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\2b2d1370e9d134cd8e0d72c668c1922c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\7782b7e18ec89716105371cb470a1f81\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\22db187b12c41613700569782b25606f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\98a02c4fc11a3a0e50f7b14f42564fa4\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\e1c02d68854a4a04d24c5a63bf83bb1a\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\8ed6dbcf820a1f3ad029cde1b57f3fd2\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\68bc1e90d78b0d541bd55f9f90791c47\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\48ff6a21f1ae8c6effd575428d4c89a6\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\YONDU\.gradle\caches\transforms-3\3ab8e2146279bbed203b6877293c698d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:4:5-51
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:5:5-56
+	xmlns:tools
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:7:3-76
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:7:20-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:8:3-64
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:8:20-62
+application
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:10:3-41:17
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\cab23d09446ae08624482fce28d3d73a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\cab23d09446ae08624482fce28d3d73a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:8:5-21:19
+MERGED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:8:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\YONDU\.gradle\caches\transforms-3\e15d3a320fcdeecc59b0d5b8a2bbd991\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\YONDU\.gradle\caches\transforms-3\e15d3a320fcdeecc59b0d5b8a2bbd991\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\YONDU\.gradle\caches\transforms-3\35beb8c1fabba03570a80477a03338af\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\YONDU\.gradle\caches\transforms-3\35beb8c1fabba03570a80477a03338af\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\0ded01ebf13d0b3a7ec39276ceacf502\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\0ded01ebf13d0b3a7ec39276ceacf502\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\583bc1af866052aa676d13bd242904d9\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\583bc1af866052aa676d13bd242904d9\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\16f9f4a793589bdc3d449bf2196cab41\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\16f9f4a793589bdc3d449bf2196cab41\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\YONDU\.gradle\caches\transforms-3\3ab8e2146279bbed203b6877293c698d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\YONDU\.gradle\caches\transforms-3\3ab8e2146279bbed203b6877293c698d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\583bc1af866052aa676d13bd242904d9\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:11:7-42
+	android:theme
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:14:7-38
+	android:taskAffinity
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:13:7-30
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:16:5-18:65
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\0ded01ebf13d0b3a7ec39276ceacf502\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\0ded01ebf13d0b3a7ec39276ceacf502\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:18:9-62
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:17:9-54
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:20:5-22:37
+	android:value
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:22:9-35
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:21:9-60
+activity#com.google.mlkit.samples.codescanner.EntryChoiceActivity
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:24:5-31:16
+	android:exported
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:26:9-32
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:25:9-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:27:7-30:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:29:9-69
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:29:19-66
+activity#com.google.mlkit.samples.codescanner.java.MainActivity
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:33:5-35:36
+	android:exported
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:34:9-42
+activity#com.google.mlkit.samples.codescanner.kotlin.MainActivity
+ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:37:5-39:36
+	android:exported
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:38:9-44
+uses-sdk
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+MERGED from [:internal:chooserx] C:\Users\YONDU\AndroidStudioProjects\mlkit\android\internal\chooserx\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:internal:chooserx] C:\Users\YONDU\AndroidStudioProjects\mlkit\android\internal\chooserx\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\cab23d09446ae08624482fce28d3d73a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\cab23d09446ae08624482fce28d3d73a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:6:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\998b2268fe622b13791958f80f1abfe9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\998b2268fe622b13791958f80f1abfe9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\d7e8b64a9b29427a6927721e6d356298\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\d7e8b64a9b29427a6927721e6d356298\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\YONDU\.gradle\caches\transforms-3\e15d3a320fcdeecc59b0d5b8a2bbd991\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\YONDU\.gradle\caches\transforms-3\e15d3a320fcdeecc59b0d5b8a2bbd991\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\569fb20bb9acb0d8b7f16ba0a2a7dd1f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\569fb20bb9acb0d8b7f16ba0a2a7dd1f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\670fbc8560ad41d6e96172e7a683cc15\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\670fbc8560ad41d6e96172e7a683cc15\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\1a7dbe1eb178a130cd9eaf9223d255c7\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\1a7dbe1eb178a130cd9eaf9223d255c7\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\6813078cd9421796bdfc9302a0c59866\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\6813078cd9421796bdfc9302a0c59866\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\710e640780f8cfef6bd1226d237d08bf\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\710e640780f8cfef6bd1226d237d08bf\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\dccfcee38aec19ef12284738fb9b56b2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\dccfcee38aec19ef12284738fb9b56b2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\8df261c613baa7c462724901163d725b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\YONDU\.gradle\caches\transforms-3\8df261c613baa7c462724901163d725b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\56c42f70658ebbf164e760040f66895c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\56c42f70658ebbf164e760040f66895c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\90144f28231f5dd9f1cb88e3f994ee68\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\90144f28231f5dd9f1cb88e3f994ee68\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\fa40fab636cfd2c83308bc621172beba\transformed\jetified-barcode-scanning-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\fa40fab636cfd2c83308bc621172beba\transformed\jetified-barcode-scanning-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\YONDU\.gradle\caches\transforms-3\35beb8c1fabba03570a80477a03338af\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\YONDU\.gradle\caches\transforms-3\35beb8c1fabba03570a80477a03338af\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\0ded01ebf13d0b3a7ec39276ceacf502\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\0ded01ebf13d0b3a7ec39276ceacf502\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\2f823df7e2471e24279698bb73f77070\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\2f823df7e2471e24279698bb73f77070\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\cf88988b45e5926ebb130bced8012c59\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\cf88988b45e5926ebb130bced8012c59\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\afdccf618cc46e402b21b9b61c7ec376\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\afdccf618cc46e402b21b9b61c7ec376\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\e529572e768e906efab53815ff78db15\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\e529572e768e906efab53815ff78db15\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\7de3085eb6039f1667e5594178c8dfaa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\7de3085eb6039f1667e5594178c8dfaa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\b39c72d4399dd2955a5f97eef6c610e3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\b39c72d4399dd2955a5f97eef6c610e3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\583bc1af866052aa676d13bd242904d9\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\583bc1af866052aa676d13bd242904d9\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\YONDU\.gradle\caches\transforms-3\aae922b094ae24511a94db802cc0cb68\transformed\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\YONDU\.gradle\caches\transforms-3\aae922b094ae24511a94db802cc0cb68\transformed\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\5c8090023d577b86e8281b82d9683a60\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\5c8090023d577b86e8281b82d9683a60\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\70840bc8ca30170ab957f7c105b2008f\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\70840bc8ca30170ab957f7c105b2008f\transformed\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\16f9f4a793589bdc3d449bf2196cab41\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\YONDU\.gradle\caches\transforms-3\16f9f4a793589bdc3d449bf2196cab41\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\1bb0f84d87a5a5e8e0cb5535f4c755ce\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\1bb0f84d87a5a5e8e0cb5535f4c755ce\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\85fc9332fdcd87f70f6c4efc70d847b3\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\85fc9332fdcd87f70f6c4efc70d847b3\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\c2bbf579950e29c5becb1f8c172c579c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\c2bbf579950e29c5becb1f8c172c579c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\67731ff767f4a203cd9fcaa6ab4be03a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\67731ff767f4a203cd9fcaa6ab4be03a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\be675b2e5a8192f8a8f521e62df93a54\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\be675b2e5a8192f8a8f521e62df93a54\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\387941fcce21135d0485ad8f94099013\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\387941fcce21135d0485ad8f94099013\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\9afabe014c07c719e9a868005615f8d3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\9afabe014c07c719e9a868005615f8d3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\2b2d1370e9d134cd8e0d72c668c1922c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\2b2d1370e9d134cd8e0d72c668c1922c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\7782b7e18ec89716105371cb470a1f81\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\7782b7e18ec89716105371cb470a1f81\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\22db187b12c41613700569782b25606f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\22db187b12c41613700569782b25606f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\98a02c4fc11a3a0e50f7b14f42564fa4\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\YONDU\.gradle\caches\transforms-3\98a02c4fc11a3a0e50f7b14f42564fa4\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\e1c02d68854a4a04d24c5a63bf83bb1a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\e1c02d68854a4a04d24c5a63bf83bb1a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\8ed6dbcf820a1f3ad029cde1b57f3fd2\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\8ed6dbcf820a1f3ad029cde1b57f3fd2\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\68bc1e90d78b0d541bd55f9f90791c47\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\68bc1e90d78b0d541bd55f9f90791c47\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\48ff6a21f1ae8c6effd575428d4c89a6\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\48ff6a21f1ae8c6effd575428d4c89a6\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\YONDU\.gradle\caches\transforms-3\3ab8e2146279bbed203b6877293c698d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\YONDU\.gradle\caches\transforms-3\3ab8e2146279bbed203b6877293c698d\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+activity#com.google.mlkit.vision.codescanner.internal.GmsBarcodeScanningDelegateActivity
+ADDED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:15:9-20:20
+	android:screenOrientation
+		ADDED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:18:13-49
+	android:exported
+		ADDED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:17:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:19:13-42
+	android:name
+		ADDED from [com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:16:13-107
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132

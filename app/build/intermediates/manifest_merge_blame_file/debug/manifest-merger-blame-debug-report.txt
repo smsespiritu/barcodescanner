@@ -1,0 +1,164 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.mlkit.samples.codescanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:7:3-76
+11-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:7:20-74
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:8:3-64
+12-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:8:20-62
+13
+14    <application
+14-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:10:3-41:17
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] C:\Users\YONDU\.gradle\caches\transforms-3\583bc1af866052aa676d13bd242904d9\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@drawable/logo_mlkit"
+17-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:11:7-42
+18        android:label="@string/app_name"
+18-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:12:7-39
+19        android:taskAffinity=""
+19-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:13:7-30
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:14:7-38
+21        <meta-data
+21-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:16:5-18:65
+22            android:name="com.google.android.gms.version"
+22-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:17:9-54
+23            android:value="@integer/google_play_services_version" />
+23-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:18:9-62
+24        <meta-data
+24-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:20:5-22:37
+25            android:name="com.google.mlkit.vision.DEPENDENCIES"
+25-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:21:9-60
+26            android:value="barcode_ui" />
+26-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:22:9-35
+27
+28        <activity
+28-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:24:5-31:16
+29            android:name="com.google.mlkit.samples.codescanner.EntryChoiceActivity"
+29-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:25:9-44
+30            android:exported="true" >
+30-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:26:9-32
+31            <intent-filter>
+31-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:27:7-30:23
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:28:9-61
+32-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:28:17-58
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:29:9-69
+34-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:29:19-66
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:33:5-35:36
+38            android:name="com.google.mlkit.samples.codescanner.java.MainActivity"
+38-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:34:9-42
+39            android:exported="false" />
+39-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:35:9-33
+40        <activity
+40-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:37:5-39:36
+41            android:name="com.google.mlkit.samples.codescanner.kotlin.MainActivity"
+41-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:38:9-44
+42            android:exported="false" />
+42-->C:\Users\YONDU\AndroidStudioProjects\mlkit\android\codescanner\app\src\main\AndroidManifest.xml:39:9-33
+43
+44        <!--
+45        This activity is an invisible delegate activity to start scanner activity
+46        and receive result, so it's unnecessary to support screen orientation and
+47        we can avoid any side effect from activity recreation in any case.
+48        -->
+49        <activity
+49-->[com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:15:9-20:20
+50            android:name="com.google.mlkit.vision.codescanner.internal.GmsBarcodeScanningDelegateActivity"
+50-->[com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:16:13-107
+51            android:exported="false"
+51-->[com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:17:13-37
+52            android:screenOrientation="portrait" >
+52-->[com.google.android.gms:play-services-code-scanner:16.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\49ddc855c6d8a10d52578b172d644db6\transformed\jetified-play-services-code-scanner-16.1.0\AndroidManifest.xml:18:13-49
+53        </activity>
+54
+55        <service
+55-->[com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:9:9-15:19
+56            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+56-->[com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:10:13-91
+57            android:directBootAware="true"
+57-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:17:13-43
+58            android:exported="false" >
+58-->[com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:11:13-37
+59            <meta-data
+59-->[com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:12:13-14:85
+60                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+60-->[com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:13:17-124
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.mlkit:vision-common:17.0.0] C:\Users\YONDU\.gradle\caches\transforms-3\13cf4f2d2cecb046cfe606728b94c837\transformed\jetified-vision-common-17.0.0\AndroidManifest.xml:14:17-82
+62            <meta-data
+62-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:20:13-22:85
+63                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+63-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:21:17-120
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:22:17-82
+65        </service>
+66
+67        <provider
+67-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:9:9-13:38
+68            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+68-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:10:13-78
+69            android:authorities="com.google.mlkit.samples.codescanner.mlkitinitprovider"
+69-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:11:13-69
+70            android:exported="false"
+70-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:12:13-37
+71            android:initOrder="99" />
+71-->[com.google.mlkit:common:18.9.0] C:\Users\YONDU\.gradle\caches\transforms-3\639509f2ea976efca24311099b6a64a2\transformed\jetified-common-18.9.0\AndroidManifest.xml:13:13-35
+72
+73        <activity
+73-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+74            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+74-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+75            android:exported="false"
+75-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+76-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\YONDU\.gradle\caches\transforms-3\760f0c38283ee8d32147931478c32bcd\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+77
+78        <service
+78-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+79            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+79-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+80            android:exported="false" >
+80-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+81            <meta-data
+81-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+82                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+82-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+83                android:value="cct" />
+83-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\YONDU\.gradle\caches\transforms-3\7080a5a4c9e7224802e17fc224031f27\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+84        </service>
+85        <service
+85-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+86            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+86-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+87            android:exported="false"
+87-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+88            android:permission="android.permission.BIND_JOB_SERVICE" >
+88-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+89        </service>
+90
+91        <receiver
+91-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+92            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+92-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+93            android:exported="false" />
+93-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\YONDU\.gradle\caches\transforms-3\b3b5d73a10446b42f4df41b78bd5c71d\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+94    </application>
+95
+96</manifest>
